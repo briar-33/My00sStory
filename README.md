@@ -2,7 +2,7 @@
 
 <p><strong>Read this in other languages:</strong>
 <a href="README.md">English</a> | 
-<a href="README.ru.md">Русский</a> | 
+<a href="README.ru.md">Russian</a> | 
 </p>
 
 <p>Ren'Py based short visual novell game
